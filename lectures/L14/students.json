@@ -1,0 +1,17 @@
+{
+    "college": "Harvard College",
+    "students": [
+        {
+            "name": "Hurlink",
+            "age": 20,
+            "major": "Computer Science",
+            "takingCS207": "Yes"
+        },
+        {
+            "name": "Christine",
+            "age": 19,
+            "major": "East Asian Studies",
+            "takingCS207": "No"
+        }
+    ]
+}
